@@ -1,3 +1,3 @@
 # lfsr-stock-warehouse
 
-# run Assignment 1
+run Assignment 1

@@ -1,0 +1,1 @@
+# lfsr-stock-warehouse
